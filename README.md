@@ -1,5 +1,5 @@
 # Learning_Notes
-计算机学习笔记，更新ing
+学习笔记，更新ing
 # Tools
 ## Git
 -  [Git tutorial](/Git/Git-1.md)
