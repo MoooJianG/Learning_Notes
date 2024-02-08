@@ -2,4 +2,4 @@
 计算机学习笔记
 # Tools
 ## Git
--  [Git tutorial](\Git\Git-1)
+-  [Git tutorial](\Git\Git-1.md)
